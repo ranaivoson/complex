@@ -9,7 +9,7 @@
       "memory": 128
     },
     {
-      "name:": "server",
+      "name": "server",
       "image": "ranaivoson0/multi-server",
       "hostname": "api",
       "essential": false,
