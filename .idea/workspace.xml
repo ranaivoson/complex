@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb5f11de-4927-4fa5-8970-fbd3c18a4c64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="bb5f11de-4927-4fa5-8970-fbd3c18a4c64" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,7 @@
       <workItem from="1674642906338" duration="605000" />
       <workItem from="1674655505979" duration="24445000" />
       <workItem from="1674834582325" duration="264000" />
-      <workItem from="1674834855518" duration="11872000" />
+      <workItem from="1674834855518" duration="12505000" />
     </task>
     <task id="LOCAL-00001" summary="- kubernettes">
       <created>1674808910101</created>
@@ -112,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674850198254</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- remove service account from git">
+      <created>1674850897658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674850897658</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +130,7 @@
     <MESSAGE value="- fix travis" />
     <MESSAGE value="- fix typo" />
     <MESSAGE value="- fix react test" />
-    <option name="LAST_COMMIT_MESSAGE" value="- fix react test" />
+    <MESSAGE value="- remove service account from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="- remove service account from git" />
   </component>
 </project>
