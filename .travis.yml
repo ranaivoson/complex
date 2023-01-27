@@ -14,7 +14,7 @@ before_install:
   - gcloud config set project mystic-tempo-376014
   - gcloud config set compute/zone us-central1-c
   - gcloud container clusters get-credentials complex-cluster
-  - echo "$DOCKER_PASSWORD' | docker login -u "$DOCKER_ID" --password-stdin
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
   - docker build -t ranaivoson0/react-test -f ./client/dockerfile.dev ./client
 
 script:
